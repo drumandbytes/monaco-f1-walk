@@ -26,7 +26,7 @@ Enable GPS and the app follows you automatically — it advances to the next cor
 - **PWA** — install to home screen via Safari on iOS or Chrome/Brave on Android
 - **Screen wake lock** — screen stays on automatically when GPS is active
 - **Fullscreen mode** — available on Android and desktop (hidden on iOS where the API is not supported)
-- **No tracking** — GPS stays on your device, no cookies, no personal data collected; privacy-friendly Cloudflare Web Analytics (cookieless, aggregate page views only)
+- **Cookieless** — GPS stays on your device, no cookies, no personal data collected; privacy-friendly Cloudflare Web Analytics (aggregate page views only)
 
 ## Installing as an app
 
